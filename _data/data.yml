@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: rohan.sethi87@gmail.com
-    Mobile: 9619035150
+    phone: 9619035150
 #     website: blog.webjeda.com #do not add http://
     linkedin: rohan-sethi
 #     xing: alandoe
@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Tech enthusiast with 5+ years of experience in building, optimizing and scaling tech products. 
+     Product enthusiast with 5+ years of experience in building, optimizing and scaling tech products. 
      Love to dig deep into customer issues and solve them through modern technology. 
      Have an eye for beautiful interfaces and intuitive user experiences.
 
@@ -139,19 +139,19 @@ skills:
 
     toolset:
       - name: Javascript
-        level: 98%
+        level: 90%
 
       - name: HTML5
-        level: 98%
+        level: 90%
 
       - name: CSS3
-        level: 98%
+        level: 90%
 
       - name: Jquery
-        level: 95%
+        level: 90%
 
       - name: React
-        level: 60%
+        level: 65%
 
       - name: AngularJS
         level: 85%
@@ -164,9 +164,6 @@ skills:
       
       - name: Ionic framework
         level: 80%
-      
-      - name: Google Optimize
-        level: 60%
       
       - name: Wireframing
         level: 60%
