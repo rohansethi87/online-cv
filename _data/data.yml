@@ -3,190 +3,165 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+#     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Rohan Sethi
+    tagline: Lead Front End Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: rohan.sethi87@gmail.com
+    Mobile: 9619035150
+#     website: blog.webjeda.com #do not add http://
+    linkedin: rohan-sethi
+#     xing: alandoe
+#     github: sharu725
+#     telegram: # add your nickname without '@' sign
+#     gitlab:
+#     bitbucket:
+    twitter: '@RhnSethi'
+#     stack-overflow: # Number/Username, e.g. 123456/alandoe
+#     codewars:
+#     goodreads: # Number-Username, e.g. 123456-alandoe
+#     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
+#     interests:
+#       - item: Climbing
+#         link:
 
-      - idiom: Spanish
-        level: Professional
+#       - item: Snowboarding
+#         link:
 
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+#       - item: Cooking
+#         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     Product enthusiast with 5+ years of experience in building, optimizing and scaling tech products. 
+     Love to dig deep into customer issues and solve them through modern technology. 
+     Have an eye for beautiful interfaces and intuitive user experiences.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Masters of Computer Application
+      College: VJTI college, Mumbai.
+      time: 2013 - 2016
+    - degree: BSc in Computer Science
+      College: MGM’s DR. GYPCCS&IT Aurangabad, Maharashtra
+      time: 2010 - 2013
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Founder
+      time: 08/2020 - 09/2021
+      company: Swagitup
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+        - Formulated the company's vision, goals and objectives also hired and trained a competent team of 5 employees. 
+        - Conceptualized and grew the business to $120k sales annually.
+        - Developed and implemented business plan ,strategy and product road map; identified and exploited new opportunities. 
+        - Created user personas interviewing wide range of target audience. 
+        - Wireframed, Designed and Developed the website. 
+        - Served 12 organisations with ~30 different types of products in the last 6 months at more than 150 pin codes Pan India.
+        - Identified product gaps by analyzing the market, competitors and interviewing customers to create a tech product to 
+          fill those gaps and to automate the process of swag management for companies. 
+    - role: Senior Member of Technical Staff
+      time: 01/2019 - 07/2020
+      company: Fyle Technolologies Pvt Ltd
+      details: |
+        - Led and mentored a team of 6 engineers. 
+        - Translated unstructured or ambiguous work requests into actionable user stories and work units. 
+        - Optimized migrations to have a faster run-time in PSQL with over a million records. 
+        - Architected and developed solutions to ambiguous problems with significant impact for marketing and customers team. 
+        - Migrated and revamped the company's blog to Webflow which significantly improved the page score by ~40% . 
+        - Leading all technical SEO efforts on the marketing website increasing the performance by ~15%. 
+    - role: Front End Developer
       time: 2014 - 2015
-      company: Google, London
+      company: Savvy Investments Pvt Ltd
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Wrote clean, reusable, browser-compatible code using AngularJS
+        framework and other libraries following the best practices. 
+        - Worked with back end engineers to consume API's and see features
+        through, from conception to completion. 
+        - Ensured the technical feasibility of UI/UX designs. 
+        - Developed an application using D3.JS library for users to
+        understand the working of mutual funds with interactive charts
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Freshsales SDK (2020)
+        link: "https://pypi.org/project/freshsalessdk/"
+        tagline: "Contributed to Open Source Fresh Sales SDk"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Fyle Automated tests
+        link: "https://github.com/rohanfyle/fyle-www-tests"
+        tagline: "Contributed to writing automated tests for Fyle's website using Selenium webdriver and pytest"
 
-      - title: Tempo
+      - title: Gemstone Mobile Application
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Mobile Application built in Ionic framework as an internship project for the agent to pass information about the procured gemstone"
 
-      - title: Atom
+      - title: Wireframing the website
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Wireframed, designed and built my company's website from scratch"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Basic Expense Tracking application client
+        link: "https://rohansethi87.github.io/expense-tracker-react/"
+        tagline: "Built this basic react application to understand the core concepts of react"
 
 publications:
-    title: Publications
+    title: Blogs
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        
+    articles:
+      - title: Bye bye WordPress, welcome Webflow.
+        link: "https://stories.fylehq.com/posts/bye-bye-wordpress-welcome-webflow"
+        authors: Rohan
+        about: Migrated and revamped the company's blog from Wordpress to Webflow which significantly improved the page score by ~40% with 0 downtime.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Javascript
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: HTML5
         level: 98%
 
-      - name: Angular
+      - name: CSS3
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Jquery
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: React
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: AngularJS
+        level: 85%
+
+      - name: Python
+        level: 60%
+      
+      - name: SQL
+        level: 60%
+      
+      - name: Ionic framework
+        level: 80%
+      
+      - name: Google Optimize
+        level: 60%
+      
+      - name: Wireframing
+        level: 60%
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
